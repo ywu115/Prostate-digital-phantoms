@@ -1,4 +1,4 @@
-# Prostate-digital-phantomshttps://jhubluejays.zoom.us/profile
+# Prostate-digital-phantoms
 
 ======= MOTIVATION =======
 
