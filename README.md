@@ -17,16 +17,7 @@ Five parameters were constructed, including optical absorption (abs), acoustic a
 
 There is also a mask file indicating the tissue/organ type. Labels of tissue/organ are defined as follows
 
-0 - muscle
-1 - fat
-2 - bone
-3 - prostate
-4 - anal canal
-5 - rectum
-6 - urinary bladder
-7 - neurovascular bundles
-8 - penile bulb
-9 - seminal vescles
+0 - muscle; 1 - fat; 2 - bone; 3 - prostate; 4 - anal canal; 5 - rectum; 6 - urinary bladder; 7 - neurovascular bundles; 8 - penile bulb; 9 - seminal vescles
 
 The voxel size is 0.875 mm (row) x 0.875 mm (column) x 2.5 mm (depth).
 
