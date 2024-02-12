@@ -1,10 +1,12 @@
 # Prostate-digital-phantomshttps://jhubluejays.zoom.us/profile
 
 ======= MOTIVATION =======
+
 This repository contains 248 sets of realistic digital phantoms for prostate ultrasound and photoacoustic imaging in the male pelvic region. Our model encompasses surrounding tissues or organs around the prostate, including fat, bones (including femoral heads), muscles, urinary bladder, rectum, anal canal, penile bulb, neurovascular bundles, and seminal vesicles. Each digital phantom set contains five parameters: speed of sound, density, acoustic attenuation, optical absorption, and reduced optical scattering. 
 
 
 ======= HOW TO USE =======
+
 The naming format for each digital phantom is as follows
 
 Pelvis_Prostate_TypeOfParameter.mat
@@ -14,6 +16,7 @@ Sixty-two ex vivo prostate specimens were employed and they are indexed by the d
 Five parameters were constructed, including optical absorption (abs), acoustic attenuation (att), density (density), optical scattering (scat), and speed of sound (sos).
 
 There is also a mask file indicating the tissue/organ type. Labels of tissue/organ are defined as follows
+
 0 - muscle
 1 - fat
 2 - bone
@@ -29,6 +32,7 @@ The voxel size is 0.875 mm (row) x 0.875 mm (column) x 2.5 mm (depth).
 
 
 ======= CREDITS =======
+
 Please cite 
 
 More information about our studies on prostate ultrasound tomography can be found in
