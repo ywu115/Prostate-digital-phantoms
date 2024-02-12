@@ -1,4 +1,4 @@
-# Prostate-digital-phantoms
+# Realistic digital phantoms for prostate ultrasound and photoacoustic imaging
 
 ======= MOTIVATION =======
 
