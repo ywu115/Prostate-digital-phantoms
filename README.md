@@ -1,5 +1,10 @@
 # Realistic digital phantoms for prostate ultrasound and photoacoustic imaging
 
+Note on Feb 20, 2024: We will make our data available once the paper is published in several weeks.
+
+For any question or early request of data, please contact yixuan@jhu.edu.
+
+
 ======= MOTIVATION =======
 
 This repository contains 248 sets of realistic digital phantoms for prostate ultrasound and photoacoustic imaging in the male pelvic region. Our model encompasses surrounding tissues or organs around the prostate, including fat, bones (including femoral heads), muscles, urinary bladder, rectum, anal canal, penile bulb, neurovascular bundles, and seminal vesicles. Each digital phantom set contains five parameters: speed of sound, density, acoustic attenuation, optical absorption, and reduced optical scattering. 
@@ -24,7 +29,7 @@ The voxel size is 0.875 mm (row) x 0.875 mm (column) x 2.5 mm (depth).
 
 ======= CREDITS =======
 
-Please cite 
+Please cite out SPIE Medical Imaging 2024 paper:
 
 More information about our studies on prostate ultrasound tomography can be found in
 * Wiskin JW, Enders J, Williams C, Turkbey I, Rothberg M, Daneshvar M, Merino M, Xu S, Boctor E, Wu Y, Toubaji A. Imaging of prostate cancer with 3D ultrasound tomography. InMedical Imaging 2022: Ultrasonic Imaging and Tomography 2022 Apr 4 (p. PC1203809). SPIE.
