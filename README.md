@@ -7,7 +7,7 @@ For any question or early request of data, please contact yixuan@jhu.edu.
 
 ======= MOTIVATION =======
 
-This repository contains 248 sets of realistic digital phantoms for prostate ultrasound and photoacoustic imaging in the male pelvic region. Our model encompasses surrounding tissues or organs around the prostate, including fat, bones (including femoral heads), muscles, urinary bladder, rectum, anal canal, penile bulb, neurovascular bundles, and seminal vesicles. Each digital phantom set contains five parameters: speed of sound, density, acoustic attenuation, optical absorption, and reduced optical scattering. 
+This repository contains 248 sets of 3D realistic digital phantoms for prostate ultrasound and photoacoustic imaging in the male pelvic region. Our model encompasses surrounding tissues or organs around the prostate, including fat, bones (including femoral heads), muscles, urinary bladder, rectum, anal canal, penile bulb, neurovascular bundles, and seminal vesicles. Each digital phantom set contains five parameters: speed of sound, density, acoustic attenuation, optical absorption, and reduced optical scattering. 
 
 
 ======= HOW TO USE =======
