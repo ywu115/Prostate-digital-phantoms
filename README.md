@@ -1,8 +1,6 @@
 # Realistic digital phantoms for prostate ultrasound and photoacoustic imaging
 
-Note on Feb 20, 2024: We will make our data available once the paper is published in several weeks.
-
-For any question or early request of data, please contact yixuan@jhu.edu.
+Due to the data size limit by Github, we have uploaded data on Zenodo. Please redirect to (https://zenodo.org/records/10934448).
 
 
 ======= MOTIVATION =======
@@ -30,6 +28,7 @@ The voxel size is 0.875 mm (row) x 0.875 mm (column) x 2.5 mm (depth).
 ======= CREDITS =======
 
 Please cite out SPIE Medical Imaging 2024 paper:
+* Yixuan Wu, Jacob Enders, Cheyenne Williams, Baichuan Jiang, James Wiskin, Michael B. Rothberg, Ayele H. Negussie, John Klock, Lindsey Hazen, Sheng Xu, Baris Turkbey, Peter A. Pinto, Bradford J. Wood, and Emad M. Boctor "Realistic digital phantoms for prostate ultrasound and photoacoustic imaging", Proc. SPIE 12932, Medical Imaging 2024: Ultrasonic Imaging and Tomography, 129321D (1 April 2024); https://doi.org/10.1117/12.3006921
 
 More information about our studies on prostate ultrasound tomography can be found in
 * Wiskin JW, Enders J, Williams C, Turkbey I, Rothberg M, Daneshvar M, Merino M, Xu S, Boctor E, Wu Y, Toubaji A. Imaging of prostate cancer with 3D ultrasound tomography. InMedical Imaging 2022: Ultrasonic Imaging and Tomography 2022 Apr 4 (p. PC1203809). SPIE.
